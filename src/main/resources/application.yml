@@ -1,0 +1,8 @@
+end:
+ point: http://localhost:1111/tp13
+server:
+ port: 1111
+spring:
+ thymeleaf:
+  prefix: classpath:/templates/
+  suffix: .html
